@@ -1,0 +1,19 @@
+{
+  "name": "dependencies",
+  "version": "1.0.0",
+  "description": "NodeJS and Dependency Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grrumblerr/testing.git"
+  },
+  "author": "grumbler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grrumblerr/testing/issues"
+  },
+  "homepage": "https://github.com/grrumblerr/testing#readme"
+}
