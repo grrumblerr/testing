@@ -25,7 +25,7 @@ car.color = "green";
 car.power = function(power) {
   console.log('the engine power is ' + power);
 };
-car.power('200hp');
+// car.power('200hp');
 
 // car.enginePower = '150hp';
 // car.power = function() {
