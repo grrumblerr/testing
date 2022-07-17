@@ -1,1 +1,1 @@
-# Prototype and Inheritance, Classes, Constructor practical task
+# String, RegExp, DateTime Practical Task
